@@ -78,4 +78,4 @@ public class TicketServiceTest {
         ticket.setTrain("banglore express");
         ticket.setfinalPrice("chennai");
 
-    }}
+    }
